@@ -4,18 +4,13 @@ title: 关于
 permalink: /about/
 icon: glyphicon-heart
 ---
-测试图片上传，等待年后开始写博客。
 
-两位喜欢的球星。
+　　2013年，本科毕业。
 
-斯蒂芬库里
-
-![curry]({{ "/css/pics/curry.jpg"}})
+　　2016年，工作在广州的电子电气工程师，努力往嵌入式软件方面发展。
 
 
+![bike]({{ "/css/pics/bike.jpg"}})
 
-凯文杜兰特
-
-![durant]({{ "/css/pics/durant.jpg"}})
 
 
